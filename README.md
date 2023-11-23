@@ -5,4 +5,4 @@ Installation method refers to https://github.com/open-mmlab/mmdetection
 # data
 GlutamicAcid dataset from https://github.com/wuyuanyi135/MicroVisionLabelling/tree/GlutamicAcidTransformation/Dataset  
 The tool for converting the glutamic acid dataset CSV data label to Coco's JSON format in `./data_tools ` 
-\<br>Entecavir dataset in Coco format, contact dzhenyu0918@163.com
+Entecavir dataset in Coco format, contact dzhenyu0918@163.com
